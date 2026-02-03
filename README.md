@@ -199,6 +199,5 @@ Endee.io Campus Assignment
 
 EndeeRAG is a Retrieval Augmented Generation system that uses Endee as a vector
 database to enable semantic document search and question answering.
-```
 
 
