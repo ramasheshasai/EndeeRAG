@@ -1,0 +1,3 @@
+Endee is a high-performance open-source vector database.
+It is used for storing embeddings and performing fast similarity search.
+Endee is commonly used in AI applications like semantic search and RAG systems.
